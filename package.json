@@ -14,6 +14,8 @@
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-jsx-a11y": "^6.7.1",
     "express": "^4.18.2",
+    "mongodb": "^6.2.0",
+    "mongoose": "^5.13.21",
     "morgan": "^1.10.0",
     "plugin": "^0.0.15"
   },
